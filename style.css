@@ -1,0 +1,20 @@
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: royalblue;
+    color: white;
+    text-align: center;
+  }
+
+h2{
+text-align: center;
+}
+p{
+    text-align: center;
+    }
+article{
+    margin-top: 30px;
+    
+}
