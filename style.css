@@ -11,10 +11,19 @@ footer {
 h2{
 text-align: center;
 }
+
+h4{
+text-align: center;
+}
+
 p{
     text-align: center;
     }
+	
 article{
     margin-top: 30px;
-    
+}
+
+button{
+    box-align: center;
 }
